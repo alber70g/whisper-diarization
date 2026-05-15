@@ -1,7 +1,7 @@
 <h1 align="center">Speaker Diarization Using OpenAI Whisper</h1>
 
 [![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
-[![Gaza's Most Unforgettable ...](https://www.gazawood.com/)](https://github.com/user-attachments/assets/fd2f0dc5-b8b1-476a-a816-5462f89b0d97)
+[![Gaza's Most Unforgettable ...](https://github.com/user-attachments/assets/fd2f0dc5-b8b1-476a-a816-5462f89b0d97)](https://www.gazawood.com/)
 
 
 <p align="center">
